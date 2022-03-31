@@ -3,4 +3,5 @@ Este es un proyecto de una GUI que permite la automatización de la toma de prue
 
 Manual de usuario:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nCUDm1TXhf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/nCUDm1TXhf8/0.jpg)](http://www.youtube.com/watch?v=nCUDm1TXhf8 "Manual de Usuario - Aplicación de Evaluación de Madurez Vocacional
+")
